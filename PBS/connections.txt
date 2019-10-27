@@ -36,3 +36,5 @@
 47,East,8,52,West,0
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# First Town (32) - Actual route 1 (84)
+32,South,6,84,North,0
